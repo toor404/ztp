@@ -37,5 +37,6 @@ def configure():
     return jsonify(data)
 
 
+#host dibawah adalah ip server ZTP
 if __name__ == '__main__':
     app.run(host='172.20.1.57', debug=True)
