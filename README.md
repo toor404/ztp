@@ -3,5 +3,5 @@ Zero Touch Provisioning
 
 #library yang dibutuhkan
 
-flask
-paramiko
+1.flask
+2.paramiko
